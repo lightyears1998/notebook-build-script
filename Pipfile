@@ -1,0 +1,17 @@
+[[source]]
+name = "tuna"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mkdocs = "*"
+mkdocs-material = "*"
+pygments = "*"
+pymdown-extensions = "*"
+mkdocs-minify-plugin = "*"
+mkdocs-git-revision-date-localized-plugin = "*"
+
+[requires]
+python_version = "3.6"
