@@ -12,6 +12,7 @@ pygments = "*"
 pymdown-extensions = "*"
 mkdocs-minify-plugin = "*"
 mkdocs-git-revision-date-localized-plugin = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.6"

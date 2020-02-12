@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "fb24a7f1f5a176aabd94950989169c88d1d0f153513e771ebd820a39a6b9182d"
+            "sha256": "a2c58c626c9efe51b3682ddc2b7b203c732a5e52aaca0d00abd6e3d14cc68d97"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -141,11 +141,11 @@
         },
         "mkdocs-minify-plugin": {
             "hashes": [
-                "sha256:3000a5069dd0f42f56a8aaf7fd5ea1222c67487949617e39585d6b6434b074b6",
-                "sha256:d54fdd5be6843dd29fd7af2f7fdd20a9eb4db46f1f6bed914e03b2f58d2d488e"
+                "sha256:181ec20a78be6aeb9e9e2477784f0e778011b10dd00d1398d0a2dd5019d5f5d0",
+                "sha256:27b68dfa54fa6ac6c91b2f2ec2bdeaf54ccf2ad8d6433d88a4a9a05029d91388"
             ],
             "index": "tuna",
-            "version": "==0.2.1"
+            "version": "==0.2.2"
         },
         "pygments": {
             "hashes": [
@@ -184,6 +184,7 @@
                 "sha256:e3a057b7a64f1222b56e47bcff5e4b94c4f61faac04c7c4ecb1985e18caa3994",
                 "sha256:e9f45bd5b92c7974e59bcd2dcc8631a6b6cc380a904725fce7bc08872e691615"
             ],
+            "index": "tuna",
             "version": "==5.3"
         },
         "six": {
