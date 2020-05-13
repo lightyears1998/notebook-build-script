@@ -1,7 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "We are in $PWD."
 echo "Installing dependencies..."
+export PIPENV_VENV_IN_PROJECT=1
 pipenv install
 
 echo "Getting latest version of lightyears1998/notebook..."
