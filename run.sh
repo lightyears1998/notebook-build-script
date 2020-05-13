@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-{
+run () {
     echo ""
     echo "[env]"
     printenv
@@ -8,4 +8,6 @@
     echo ""
     echo "[run]"
     ./build.sh
-} |& tee ./run.log
+}
+
+run |& tee ./run.log
