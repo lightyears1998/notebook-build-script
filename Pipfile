@@ -1,6 +1,6 @@
 [[source]]
-name = "tuna"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+name = "aliyun"
+url = "https://mirrors.aliyun.com/pypi/simple"
 verify_ssl = true
 
 [dev-packages]
@@ -13,6 +13,7 @@ pymdown-extensions = "*"
 mkdocs-minify-plugin = "*"
 mkdocs-git-revision-date-localized-plugin = "*"
 pyyaml = "*"
+mdx-truly-sane-lists = "*"
 
 [requires]
 python_version = "3.6"
